@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Sep 23 21:49:22 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0166-0944-4a78-00000de212e0 
+on database directory C:\Users\jstil\OneDrive\Documents\GitHub\Time-Clock\student_ with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Loaded from file:/C:/Users/jstil/OneDrive/Documents/GitHub/Time-Clock/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=C:\Users\jstil\OneDrive\Documents\GitHub\Time-Clock
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
